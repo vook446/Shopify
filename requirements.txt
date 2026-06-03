@@ -1,11 +1,2 @@
 flask
-asyncio
 aiohttp
-argparse
-random
-re
-time
-json
-os
-urlparse
-urllib.parse
